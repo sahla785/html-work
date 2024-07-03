@@ -1,0 +1,20 @@
+h2{
+    color:red
+} 
+
+a:link{
+    background-color: white;
+    color: black;
+}
+
+p{
+    display: none;
+    color: red;
+    border:1px black solid;
+}
+div:hover p{
+    display: block;
+}
+h3{
+    color:red
+} 
